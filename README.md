@@ -2,10 +2,9 @@
 
 Бот: DMConvertercurrencyBot
 
-Пользователь: @DMV_intqap1052_bot
+Пользователь: @QAP1052bot
 
-Ссылка: https://t.me/DMV_intqap1052_bot
-
+Ссылка: https://t.me/QAP1052bot
 
 Написать и протестировать Telegram-бота, в котором будет реализован следующий функционал:
 
